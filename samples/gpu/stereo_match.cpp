@@ -10,7 +10,7 @@
 
 using namespace cv;
 using namespace std;
-
+// it is used to help_showed
 bool help_showed = false;
 
 struct Params
